@@ -1,0 +1,14 @@
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Service.deps.json
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Service.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Service.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Data.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Models.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Data.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\bin\Debug\netcoreapp3.1\TelephoneDirectory.Models.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.csprojAssemblyReference.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.AssemblyInfoInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.AssemblyInfo.cs
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.csproj.CopyComplete
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Service\obj\Debug\netcoreapp3.1\TelephoneDirectory.Service.pdb

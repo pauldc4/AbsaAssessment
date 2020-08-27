@@ -1,0 +1,12 @@
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\bin\Release\netcoreapp3.1\TelephoneDirectory.Data.deps.json
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\bin\Release\netcoreapp3.1\TelephoneDirectory.Data.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\bin\Release\netcoreapp3.1\TelephoneDirectory.Data.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\bin\Release\netcoreapp3.1\TelephoneDirectory.Models.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\bin\Release\netcoreapp3.1\TelephoneDirectory.Models.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.csprojAssemblyReference.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.AssemblyInfoInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.AssemblyInfo.cs
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.csproj.CopyComplete
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Data\obj\Release\netcoreapp3.1\TelephoneDirectory.Data.pdb

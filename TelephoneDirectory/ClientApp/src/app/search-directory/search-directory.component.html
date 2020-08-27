@@ -1,0 +1,30 @@
+<div style="text-align:center; display:inline-flex">
+  <label  style="margin: 0; padding:6px 0; font-weight:bold"for="search-input">Search</label>
+  <input style="width:100%; margin: 0 10px" class="form-control" type="text" id="search-input" [(ngModel)]="searchTerm" />
+  <button type="button" class="btn btn-primary" (click)="search()">Search</button>
+</div>
+
+<div style="margin:30px">
+  <table style="width:100%">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Telephone Number</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let phoneBook of phoneBooks">
+        <td>{{phoneBook.id}}</td>
+        <td>{{phoneBook.firstName}}</td>
+        <td>{{phoneBook.lastname}}</td>
+        <td>
+          <ul *ngFor="let number of phoneBook.entry">
+             <li>{{number.name}} - {{number.telephoneNumber}}</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

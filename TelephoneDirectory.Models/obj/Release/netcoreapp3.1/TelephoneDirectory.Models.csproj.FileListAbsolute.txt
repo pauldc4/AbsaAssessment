@@ -1,0 +1,9 @@
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\bin\Release\netcoreapp3.1\TelephoneDirectory.Models.deps.json
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\bin\Release\netcoreapp3.1\TelephoneDirectory.Models.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\bin\Release\netcoreapp3.1\TelephoneDirectory.Models.pdb
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.csprojAssemblyReference.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.AssemblyInfoInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.AssemblyInfo.cs
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.dll
+C:\Projects\Personal\TelephoneDirectory\TelephoneDirectory.Models\obj\Release\netcoreapp3.1\TelephoneDirectory.Models.pdb
