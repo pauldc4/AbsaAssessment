@@ -25,7 +25,10 @@ Things I would have changed:
 
 To see the app working:
 1.	Git Clone https://github.com/pauldc4/AbsaAssessment.git
-2.	Open solution in Visulal studio (preferably 2019) and Run (the project will take a few minutes to compile the first time as it has to download all its dependencies)
+2.	Open solution in Visual studio (preferably 2019) and Run (the project will take a few minutes to compile the first time as it has to downloading all its dependencies)
+
+*if visual studio becomes unresponsive please shut down visual studio and run a manual npm install on AbsaAssessment\TelephoneDirectory\ClientApp, then open  Visual Studio again 
+and run.*
 
 #### Prerequisites
 * GIT (latest version) 
