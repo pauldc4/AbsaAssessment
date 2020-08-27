@@ -31,6 +31,7 @@ To see the app working:
 * GIT (latest version) 
 * Node.js (latest version) 
 * NPM (latest version)
+* NuGET (latest version)
 * Visual Studio 2019 with Asp.Net and Web development tools installed 
 * Dot Net Core 3.1
 
