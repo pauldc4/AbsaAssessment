@@ -27,4 +27,11 @@ To see the app working:
 1.	Git Clone https://github.com/pauldc4/AbsaAssessment.git
 2.	Open solution in Visulal studio (preferably 2019) and Run 
 
+#### Prerequisites
+GIT
+Node
+Visual Studio 2019 with Asp.Net and Web development tools installed 
+Dot Net Core 3.1
+
+
 Please view the video on the basic usage BasicUsage.mp4
