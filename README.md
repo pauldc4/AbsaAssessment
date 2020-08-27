@@ -25,7 +25,7 @@ Things I would have changed:
 
 To see the app working:
 1.	Git Clone https://github.com/pauldc4/AbsaAssessment.git
-2.	Open solution in Visulal studio (preferably 2019) and Run 
+2.	Open solution in Visulal studio (preferably 2019) and Run (the project will take a few minutes to compile the first time as it has to download all its dependencies)
 
 #### Prerequisites
 * GIT (latest version) 
@@ -34,6 +34,5 @@ To see the app working:
 * NuGET (latest version)
 * Visual Studio 2019 with Asp.Net and Web development tools installed 
 * Dot Net Core 3.1
-
 
 **Please view the video on the basic usage BasicUsage.mp4**
